@@ -2,11 +2,11 @@ import java.util.Date;
 
 public class Vehicle {
     String license_plate;
-    Integer brand;
+    String brand;
     Integer year;
     String fuel;
     Double price;
-    String ac;
+    Integer ac;
     Date hun_license;
 
     
